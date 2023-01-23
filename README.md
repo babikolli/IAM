@@ -5,7 +5,9 @@
 
 ![aws console!](https://raw.githubusercontent.com/babikolli/IAM/6e941088b4cce18e7e72c7a6fe19a6f5493ab5c2/Screenshot_20230123_162853.png)
 
-In the navigation menu, choose "Services" and then select "IAM". This will take you to the IAM dashboard.
+2. In the navigation menu, choose "Services" and then select "IAM". This will take you to the IAM dashboard.
+
+![console home!](
 
 In the navigation menu, choose "Users". This will show you a list of all the existing IAM users.
 
