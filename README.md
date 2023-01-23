@@ -3,7 +3,7 @@
 
 1. Sign in to the AWS Management Console using your root account or an IAM user with the appropriate permissions.
 
-![aws console!](/https://github.com/babikolli/IAM/blob/main/Screenshot_20230123_162853.png?raw=true)
+![aws console!](https://raw.githubusercontent.com/babikolli/IAM/6e941088b4cce18e7e72c7a6fe19a6f5493ab5c2/Screenshot_20230123_162853.png)
 
 In the navigation menu, choose "Services" and then select "IAM". This will take you to the IAM dashboard.
 
