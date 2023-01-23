@@ -27,5 +27,6 @@
 
 - In the "Permissions" section, you can either add the user to an existing group, or create a new group with specific permissions. You can also give the user permissions by attaching policies directly to the user.
 
+![permission!](Screenshot_20230123_181352.png)
 
 - On the review page, you can review the user's name, access type, permissions, and password or access key. When you're ready, choose "Create user".
