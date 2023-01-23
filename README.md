@@ -1,5 +1,5 @@
 # IAM
-#### Here are the step-by-step instructions on how to create an IAM user in AWS using the AWS Management Console
+### Here are the step-by-step instructions on how to create an IAM user in AWS using the AWS Management Console
 
 - Sign in to the AWS Management Console using your root account or an IAM user with the appropriate permissions.
 
