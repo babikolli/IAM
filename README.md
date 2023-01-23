@@ -17,13 +17,15 @@
 
 - In the "Add user" page, enter a name for the new user in the "User name" field.
 
+- Select the type of access for the new user. If you want the user to have access to the AWS Management Console, select "AWS Management Console access". If you want the user to have programmatic access, select "Programmatic access".
 
-Select the type of access for the new user. If you want the user to have access to the AWS Management Console, select "AWS Management Console access". If you want the user to have programmatic access, select "Programmatic access".
+- If you selected "AWS Management Console access", you will be prompted to set a password for the user. You can also choose to have AWS generate a random password for you.
 
-If you selected "AWS Management Console access", you will be prompted to set a password for the user. You can also choose to have AWS generate a random password for you.
+![add user!](Screenshot_20230123_175012.png)
 
-If you selected "Programmatic access", you will be prompted to create an access key for the user. An access key consists of an access key ID and a secret access key, which are used to make programmatic requests to AWS services.
+- If you selected "Programmatic access", you will be prompted to create an access key for the user. An access key consists of an access key ID and a secret access key, which are used to make programmatic requests to AWS services.
 
-In the "Permissions" section, you can either add the user to an existing group, or create a new group with specific permissions. You can also give the user permissions by attaching policies directly to the user.
+- In the "Permissions" section, you can either add the user to an existing group, or create a new group with specific permissions. You can also give the user permissions by attaching policies directly to the user.
 
-On the review page, you can review the user's name, access type, permissions, and password or access key. When you're ready, choose "Create user".
+
+- On the review page, you can review the user's name, access type, permissions, and password or access key. When you're ready, choose "Create user".
