@@ -1,15 +1,15 @@
 # IAM
 #### Here are the step-by-step instructions on how to create an IAM user in AWS using the AWS Management Console
 
-1. Sign in to the AWS Management Console using your root account or an IAM user with the appropriate permissions.
+* Sign in to the AWS Management Console using your root account or an IAM user with the appropriate permissions.
 
 ![aws console!](https://raw.githubusercontent.com/babikolli/IAM/6e941088b4cce18e7e72c7a6fe19a6f5493ab5c2/Screenshot_20230123_162853.png)
 
-2. In the navigation menu, choose "Services" and then select "IAM". This will take you to the IAM dashboard.
+* In the navigation menu, choose "Services" and then select "IAM". This will take you to the IAM dashboard.
 
 ![console home!](https://raw.githubusercontent.com/babikolli/IAM/4f70670dbed0da46056cd050a673d0c42b674281/Screenshot_20230123_163336.png)
 
-3. In the navigation menu, choose "Users". This will show you a list of all the existing IAM users.
+* In the navigation menu, choose "Users". This will show you a list of all the existing IAM users.
 
 On the Users page, choose the "Add user" button. This will take you to the "Add user" page.
 
